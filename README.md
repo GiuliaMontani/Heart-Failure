@@ -78,3 +78,5 @@ Check out the final [`report.pdf`](./report/report.pdf) and the final [`presenta
 # Authors
 
 - Teo Bucci ([@teobucci](https://github.com/teobucci))
+- Giulia Montani ([@GiuliaMontani](https://github.com/GiuliaMontani))
+- Alice Traversa ([@AliceTraversa](https://github.com/AliceTraversa))
